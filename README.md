@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 SlayerX Music 」──
+    ──「 Sparkles Music 」──
 </h2>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/AtulxD/SlayerX/stargazers"><img src="https://img.shields.io/github/stars/AtulxD/SlayerX?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/AtulxD/SlayerX/network/members"> <img src="https://img.shields.io/github/forks/AtulxD/SlayerX?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="(https://github.com/Sri15521552/SparklesMusicbot)"><img src="https://img.shields.io/github/stars/AtulxD/SlayerX?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Sri15521552/SparklesMusicbot"> <img src="https://img.shields.io/github/forks/AtulxD/SlayerX?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/AtulxD/SlayerX/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://github.com/AtulxD/SlayerX/commits/SlayerX"> <img src="https://img.shields.io/github/last-commit/AtulxD/SlayerX?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
