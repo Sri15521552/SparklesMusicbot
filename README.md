@@ -9,9 +9,9 @@
 <p align="center">
 <a href="(https://github.com/Sri15521552/SparklesMusicbot)"><img src="https://img.shields.io/github/stars/AtulxD/SlayerX?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/Sri15521552/SparklesMusicbot"> <img src="https://img.shields.io/github/forks/AtulxD/SlayerX?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/AtulxD/SlayerX/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Sri15521552/SparklesMusicbot"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/AtulxD/SlayerX/commits/SlayerX"> <img src="https://img.shields.io/github/last-commit/AtulxD/SlayerX?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/Sri15521552/SparklesMusicbot"> <img src="https://img.shields.io/github/last-commit/AtulxD/SlayerX?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/AtulxD/SlayerX && cd SlayerX`
+`git clone https://github.com/Sri15521552/SparklesMusicbot && cd SlayerX`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
